@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on 
+  - [eclipse kuksa](https://github.com/eclipse/kuksa.val) 
+- 🌱 I’m currently learning
+  - Building cross-platform desktop apps using JS
+  - Natural Language Processing
+- 💬 Ask me about
+  - Coding in C/C++, python and clean coding
+  - Buildtoolchain and scripting
